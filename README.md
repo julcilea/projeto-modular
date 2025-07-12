@@ -1,6 +1,7 @@
 # projeto-modular
 
-Projeto de automação estruturado com Java + Selenium, simulando uma aplicação com duas funcionalidades: Login e Cadastro.Com uso de boas práticas e padrões como Page Object, e opcionalmente Singleton para WebDriver e Factory para dados.
+Projeto de automação estruturado com Java + Selenium, simulando uma aplicação com duas funcionalidades: Login e Cadastro. Com uso de boas práticas e padrões como Page Object, e opcionalmente Singleton para WebDriver e Factory para dados.
+
 
 ### Passo 1 – Separação por Camadas
 - Crie uma estrutura mínima, separando os seguintes tipos de arquivos:
