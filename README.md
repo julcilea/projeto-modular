@@ -2,6 +2,10 @@
 
 Projeto de automação estruturado com Java + Selenium, simulando uma aplicação com duas funcionalidades: Login e Cadastro. Com uso de boas práticas e padrões como Page Object, e opcionalmente Singleton para WebDriver e Factory para dados.
 
+- Os testes estão bem separados por domínio. 
+- Há uso de Page Object para encapsular a lógica de interação com a interface.
+- Singleton garante uma instância única do WebDriver.
+- DataFactory gera dados dinâmicos para testes.
 
 ### Passo 1 – Separação por Camadas
 - Crie uma estrutura mínima, separando os seguintes tipos de arquivos:
